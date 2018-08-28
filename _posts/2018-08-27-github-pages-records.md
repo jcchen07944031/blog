@@ -1,8 +1,8 @@
 ---
-title: Github-Pages筆記
+title: Github-Pages筆記(1)
 layout: post
 tagline: 透過jekyll簡單架設部落格
-tags: jekyll github-pages blog
+tags: jekyll github-pages blog lanyon
 ---
 ## 1. Introduce
 
