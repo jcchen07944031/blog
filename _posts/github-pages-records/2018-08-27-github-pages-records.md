@@ -1,14 +1,18 @@
 ---
 title: Github-Pages筆記
 layout: post
-tagline: 如何使用Github-Pages架設blogger
+tagline: Test
 tags: jekyll github-pages blog
 ---
-### 1. Introduce
+## 1. Introduce
 
->Github-Pages提供非常簡便的方式即可架設網站，而參考過許多教學以後，在這裡稍微整理記錄一下步驟及遇到的問題。
+>Github-Pages提供非常簡便的方式即可架設網站(靜態網站)，而參考過許多教學以後，在這裡稍微整理記錄一下步驟及遇到的問題。
 
-### 2. Steps
+## 2. Environment
+
+>OS: Windows 10 x64
+
+## 3. Steps
 
 >a. 前往[https://github.com/poole/lanyon](https://github.com/poole/lanyon){:target"_blank"}並fork
 ![fork-lanyon]({{ site.url }}/assets/img/fork-lanyon.jpg)
