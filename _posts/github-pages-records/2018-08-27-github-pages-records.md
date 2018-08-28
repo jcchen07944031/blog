@@ -1,7 +1,7 @@
 ---
 title: Github-Pages筆記
 layout: post
-tagline: Test
+tagline: 透過jekyll簡單架設部落格
 tags: jekyll github-pages blog
 ---
 ## 1. Introduce
