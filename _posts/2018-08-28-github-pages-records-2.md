@@ -5,7 +5,7 @@ tagline: 修改lanyon
 tags: jekyll github-pages blog lanyon
 ---
 ## 前言
-興高采烈的架設完成後當然要來發篇文章啦(如何發文下篇再紀錄)~但一直沒有出現的tagline始終困擾著我Orz...
+興高采烈的架設完成後當然要來發廢文啦(如何發文下篇再紀錄)~但一直沒有出現的tagline始終困擾著我Orz...
 不過，身為資工具人系的一員看得懂html也是合情合理的吧(?
 
 ## 如何做?
