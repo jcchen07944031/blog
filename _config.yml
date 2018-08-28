@@ -8,6 +8,7 @@ permalink:           pretty
 title:               JCChen Blogger
 description: 'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 paginate: 10
+url: https://jcchen07944031.github.io/blogger/
 
 # About/contact
 author:
