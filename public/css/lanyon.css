@@ -323,6 +323,11 @@ a.sidebar-nav-item:focus {
   margin-top: 0;
 }
 
+/* Blog post tagline */
+.post-tagline {
+  color: #9a9a9a;
+}
+
 /* Meta data line below post title */
 .post-date {
   display: block;
