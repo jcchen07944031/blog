@@ -5,10 +5,13 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               JCChen Blogger
-description: '嗨~這裡是拿來記錄些技術性的東西(吧'
-paginate: 10
-url: "https://jcchen07944031.github.io/blogger"
+title:				JCChen Blogger
+description:		'NCTU CS\nNTU INM'
+baseurl: 			""
+paginate: 			10
+url: 				'https://jcchen07944031.github.io/blogger'
+githuburl:			'https://github.com/jcchen07944031/'
+
 
 # About/contact
 author:
@@ -16,5 +19,3 @@ author:
   url:               https://jcchen07944031.github.io/blogger
   email:             james35022000@gmail.com
 
-# Custom vars
-version:             1.0.0

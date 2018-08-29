@@ -4,8 +4,22 @@
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
+  <div class="sidebar-photo">
+	<img src="{{ site.url }}/assets/img/profile-picture.jpg" />
+  </div>
+  <div class="sidebar-author">
+	<p>{{ site.author.name }}</p>
+  </div>
   <div class="sidebar-item">
-    <p>{{ site.description }}</p>
+	{% capture description %}
+		{% assign words = site.description | split: '\n' %}
+		
+		{% for word in words %}
+			{{ word }}
+			<br/>
+		{% endfor %}
+	{% endcapture %}
+    <p>{{ description }}</p>
   </div>
 
   <nav class="sidebar-nav">
@@ -25,9 +39,7 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+    <a class="sidebar-nav-item" href="{{ site.githuburl }}">My GitHub</a>
   </nav>
 
   <div class="sidebar-item">
