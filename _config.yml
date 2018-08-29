@@ -6,7 +6,7 @@ permalink:           pretty
 
 # Setup
 title:				JCChen Blog
-description:		'NCTU CS\nNTU INM'
+description:		'NCTU CS (2014-2018)\nNTU INM (2018-)'
 baseurl: 			""
 paginate: 			10
 url: 				'https://jcchen07944031.github.io/blog'
