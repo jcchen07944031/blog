@@ -13,13 +13,13 @@ tags: jekyll github-pages blog lanyon
 post.html位於_layouts裡面
 
 原始code長這樣
-![tagline-original-code]({{ site.url }}/assets/img/tagline-original-code.jpg)
+![tagline-original-code]({{ site.baseurl }}/assets/img/tagline-original-code.jpg)
 
 修改後
-![tagline-modified-code]({{ site.url }}/assets/img/tagline-modified-code.jpg)
+![tagline-modified-code]({{ site.baseurl }}/assets/img/tagline-modified-code.jpg)
 
 當然啦，怎麼改就依照個人喜好了，本人很懶都隨便改
 
 css檔則是/public/css/lanyon.css這個
 加入以下
-![tagline-css]({{ site.url }}/assets/img/tagline-css.jpg)
+![tagline-css]({{ site.baseurl }}/assets/img/tagline-css.jpg)
